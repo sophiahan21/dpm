@@ -117,7 +117,7 @@ export const GeneralConfigurationForm: FC<IGeneralConfigurationForm> = observer(
             </div>
             <div className="grow">
               <div className="text-sm font-medium text-custom-text-100 leading-5">
-                Allow Plane to collect anonymous usage events
+                Allow DPM to collect anonymous usage events
               </div>
               <div className="text-xs font-normal text-custom-text-300 leading-5">
                 We collect usage events without any PII to analyse and improve Plane.{" "}

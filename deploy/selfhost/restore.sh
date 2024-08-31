@@ -62,7 +62,7 @@ function restoreData() {
     dockerServicePrefix="running"
 
     if [[ $dockerServiceStatus == $dockerServicePrefix* ]]; then
-        echo "Plane App is running. Please STOP the Plane App before restoring data."
+        echo "DPM App is running. Please STOP the DPM App before restoring data."
         exit 1
     fi
 

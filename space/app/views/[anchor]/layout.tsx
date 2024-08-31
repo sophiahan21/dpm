@@ -8,7 +8,7 @@ import { LogoSpinner } from "@/components/common";
 import { SomethingWentWrongError } from "@/components/issues/issue-layouts/error";
 // hooks
 import { usePublish, usePublishList } from "@/hooks/store";
-// Plane web
+// DPM web
 import { ViewNavbarRoot } from "@/plane-web/components/navbar";
 import { useView } from "@/plane-web/hooks/store";
 // assets
@@ -60,10 +60,10 @@ const IssuesLayout = observer((props: Props) => {
         rel="noreferrer noopener"
       >
         <div className="relative grid h-6 w-6 place-items-center">
-          <Image src={planeLogo} alt="Plane logo" className="h-6 w-6" height="24" width="24" />
+          <Image src={planeLogo} alt="DPM logo" className="h-6 w-6" height="24" width="24" />
         </div>
         <div className="text-xs">
-          Powered by <span className="font-semibold">Plane Publish</span>
+          Powered by <span className="font-semibold">DPM Publish</span>
         </div>
       </a>
     </div>

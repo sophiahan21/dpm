@@ -71,7 +71,7 @@ def get_email_configuration():
             {
                 "key": "EMAIL_FROM",
                 "default": os.environ.get(
-                    "EMAIL_FROM", "Team Plane <team@mailer.plane.so>"
+                    "EMAIL_FROM", "Team DPM <team@mailer.plane.so>"
                 ),
             },
         ]

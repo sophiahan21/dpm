@@ -25,7 +25,7 @@ const Titles: TAuthHeaderDetails = {
   },
   [EAuthModes.SIGN_UP]: {
     header: "View, comment, and do more",
-    subHeader: "Sign up or log in to work with Plane Issues and Pages.",
+    subHeader: "Sign up or log in to work with DPM Issues and Pages.",
   },
 };
 

@@ -29,7 +29,7 @@ def magic_link(email, key, token, current_site):
         ) = get_email_configuration()
 
         # Send the mail
-        subject = f"Your unique Plane login code is {token}"
+        subject = f"Your unique DPM login code is {token}"
         context = {"code": token, "email": email}
 
         html_content = render_to_string(

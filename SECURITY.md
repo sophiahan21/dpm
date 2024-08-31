@@ -1,6 +1,6 @@
 # Security Policy
 
-This document outlines security procedures and vulnerabilities reporting for the Plane project.
+This document outlines security procedures and vulnerabilities reporting for the DPM project.
 
 At Plane, we safeguarding the security of our systems with top priority. Despite our efforts, vulnerabilities may still exist. We greatly appreciate your assistance in identifying and reporting any such vulnerabilities to help us maintain the integrity of our systems and protect our clients.
 

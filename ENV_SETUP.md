@@ -88,4 +88,4 @@ SECRET_KEY="gxoytl7dmnc1y37zahah820z5iq3iozu38cnfjtu3yaau9cd9z"
 - The naming convention for containers and images has been updated.
 - The plane-worker image will no longer be maintained, as it has been merged with plane-backend.
 - The Tiptap pro-extension dependency has been removed, eliminating the need for Tiptap API keys.
-- The image name for Plane deployment has been changed to plane-space.
+- The image name for DPM deployment has been changed to plane-space.

@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://plane.so">
-  <img src="https://plane-marketing.s3.ap-south-1.amazonaws.com/plane-readme/plane_logo_.webp" alt="Plane Logo" width="70">
+  <img src="https://plane-marketing.s3.ap-south-1.amazonaws.com/plane-readme/plane_logo_.webp" alt="DPM Logo" width="70">
 </a>
 </p>
 
@@ -27,14 +27,14 @@
     <a href="https://app.plane.so/#gh-light-mode-only" target="_blank">
       <img
         src="https://plane-marketing.s3.ap-south-1.amazonaws.com/plane-readme/plane_screen.webp"
-        alt="Plane Screens"
+        alt="DPM Screens"
         width="100%"
       />
     </a>
     <a href="https://app.plane.so/#gh-dark-mode-only" target="_blank">
       <img
         src="https://plane-marketing.s3.ap-south-1.amazonaws.com/plane-readme/plane_screens_dark_mode.webp"
-        alt="Plane Screens"
+        alt="DPM Screens"
         width="100%"
       />
     </a>
@@ -42,11 +42,11 @@
 
 Meet [Plane](https://dub.sh/plane-website-readme), an open-source project management tool to track issues, run ~sprints~ cycles, and manage product roadmaps without the chaos of managing the tool itself. 🧘‍♀️
 
-> Plane is evolving every day. Your suggestions, ideas, and reported bugs help us immensely. Do not hesitate to join in the conversation on [Discord](https://discord.com/invite/A92xrEGCge) or raise a GitHub issue. We read everything and respond to most.
+> DPM is evolving every day. Your suggestions, ideas, and reported bugs help us immensely. Do not hesitate to join in the conversation on [Discord](https://discord.com/invite/A92xrEGCge) or raise a GitHub issue. We read everything and respond to most.
 
 ## ⚡ Installation
 
-The easiest way to get started with Plane is by creating a [Plane Cloud](https://app.plane.so) account.
+The easiest way to get started with DPM is by creating a [DPM Cloud](https://app.plane.so) account.
 
 If you would like to self-host Plane, please see our [deployment guide](https://docs.plane.so/docker-compose).
 
@@ -68,9 +68,9 @@ If you would like to self-host Plane, please see our [deployment guide](https://
 
 - **Views**: Create custom filters to display only the issues that matter to you. Save and share your filters in just a few clicks.
 
-- **Pages**: Plane pages, equipped with AI and a rich text editor, let you jot down your thoughts on the fly. Format your text, upload images, hyperlink, or sync your existing ideas into an actionable item or issue.
+- **Pages**: DPM pages, equipped with AI and a rich text editor, let you jot down your thoughts on the fly. Format your text, upload images, hyperlink, or sync your existing ideas into an actionable item or issue.
 
-- **Analytics**: Get insights into all your Plane data in real-time. Visualize issue data to spot trends, remove blockers, and progress your work.
+- **Analytics**: Get insights into all your DPM data in real-time. Visualize issue data to spot trends, remove blockers, and progress your work.
 
 - **Drive** (_coming soon_): The drive helps you share documents, images, videos, or any other files that make sense to you or your team and align on the problem/solution.
 
@@ -110,13 +110,13 @@ Thats it!
 
 ## ❤️ Community
 
-The Plane community can be found on [GitHub Discussions](https://github.com/orgs/makeplane/discussions), and our [Discord server](https://discord.com/invite/A92xrEGCge). Our [Code of conduct](https://github.com/makeplane/plane/blob/master/CODE_OF_CONDUCT.md) applies to all Plane community chanels.
+The DPM community can be found on [GitHub Discussions](https://github.com/orgs/makeplane/discussions), and our [Discord server](https://discord.com/invite/A92xrEGCge). Our [Code of conduct](https://github.com/makeplane/plane/blob/master/CODE_OF_CONDUCT.md) applies to all DPM community chanels.
 
 Ask questions, report bugs, join discussions, voice ideas, make feature requests, or share your projects.
 
 ### Repo Activity
 
-![Plane Repo Activity](https://repobeats.axiom.co/api/embed/2523c6ed2f77c082b7908c33e2ab208981d76c39.svg "Repobeats analytics image")
+![DPM Repo Activity](https://repobeats.axiom.co/api/embed/2523c6ed2f77c082b7908c33e2ab208981d76c39.svg "Repobeats analytics image")
 
 ## 📸 Screenshots
 
@@ -124,7 +124,7 @@ Ask questions, report bugs, join discussions, voice ideas, make feature requests
     <a href="https://plane.so" target="_blank">
       <img
         src="https://ik.imagekit.io/w2okwbtu2/Issues_rNZjrGgFl.png?updatedAt=1709298765880"
-        alt="Plane Views"
+        alt="DPM Views"
         width="100%"
       />
     </a>
@@ -141,7 +141,7 @@ Ask questions, report bugs, join discussions, voice ideas, make feature requests
     <a href="https://plane.so" target="_blank">
       <img
         src="https://ik.imagekit.io/w2okwbtu2/Modules_PSCVsbSfI.png?updatedAt=1709298796783"
-        alt="Plane Cycles and Modules"
+        alt="DPM Cycles and Modules"
         width="100%"
       />
     </a>
@@ -150,7 +150,7 @@ Ask questions, report bugs, join discussions, voice ideas, make feature requests
     <a href="https://plane.so" target="_blank">
       <img
         src="https://ik.imagekit.io/w2okwbtu2/Views_uxXsRatS4.png?updatedAt=1709298834522"
-        alt="Plane Analytics"
+        alt="DPM Analytics"
         width="100%"
       />
     </a>
@@ -159,7 +159,7 @@ Ask questions, report bugs, join discussions, voice ideas, make feature requests
     <a href="https://plane.so" target="_blank">
       <img
         src="https://ik.imagekit.io/w2okwbtu2/Analytics_0o22gLRtp.png?updatedAt=1709298834389"
-        alt="Plane Pages"
+        alt="DPM Pages"
         width="100%"
       />
     </a>
@@ -169,7 +169,7 @@ Ask questions, report bugs, join discussions, voice ideas, make feature requests
     <a href="https://plane.so" target="_blank">
       <img
         src="https://ik.imagekit.io/w2okwbtu2/Drive_LlfeY4xn3.png?updatedAt=1709298837917"
-        alt="Plane Command Menu"
+        alt="DPM Command Menu"
         width="100%"
       />
     </a>
@@ -188,7 +188,7 @@ There are many ways to contribute to Plane, including:
 
 - Submitting [bugs](https://github.com/makeplane/plane/issues/new?assignees=srinivaspendem%2Cpushya22&labels=%F0%9F%90%9Bbug&projects=&template=--bug-report.yaml&title=%5Bbug%5D%3A+) and [feature requests](https://github.com/makeplane/plane/issues/new?assignees=srinivaspendem%2Cpushya22&labels=%E2%9C%A8feature&projects=&template=--feature-request.yaml&title=%5Bfeature%5D%3A+) for various components.
 - Reviewing [the documentation](https://docs.plane.so/) and submitting [pull requests](https://github.com/makeplane/plane), from fixing typos to adding new features.
-- Speaking or writing about Plane or any other ecosystem integration and [letting us know](https://discord.com/invite/A92xrEGCge)!
+- Speaking or writing about DPM or any other ecosystem integration and [letting us know](https://discord.com/invite/A92xrEGCge)!
 - Upvoting [popular feature requests](https://github.com/makeplane/plane/issues) to show your support.
 
 ### We couldn't have done this without you.

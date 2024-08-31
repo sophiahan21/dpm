@@ -1,5 +1,5 @@
 #!/bin/sh
 set -x
 
-echo "Starting Plane Frontend.."
+echo "Starting DPM Frontend.."
 node $1

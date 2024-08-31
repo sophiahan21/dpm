@@ -34,7 +34,7 @@ export const WorkspaceDashboardHeader = () => {
           </div>
         </div>
         <div className="flex items-center gap-3 px-3">
-          <a
+          {/* <a
             onClick={() =>
               captureEvent(CHANGELOG_REDIRECTED, {
                 element: "navbar",
@@ -47,8 +47,8 @@ export const WorkspaceDashboardHeader = () => {
           >
             <Zap size={14} strokeWidth={2} fill="rgb(var(--color-text-100))" />
             <span className="hidden text-xs font-medium sm:hidden md:block">{"What's new?"}</span>
-          </a>
-          <a
+          </a> */}
+          {/* <a
             onClick={() =>
               captureEvent(GITHUB_REDIRECTED, {
                 element: "navbar",
@@ -66,7 +66,7 @@ export const WorkspaceDashboardHeader = () => {
               alt="GitHub Logo"
             />
             <span className="hidden text-xs font-medium sm:hidden md:block">Star us on GitHub</span>
-          </a>
+          </a> */}
         </div>
       </div>
     </>

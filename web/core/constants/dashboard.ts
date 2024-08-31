@@ -275,14 +275,14 @@ export const SIDEBAR_WORKSPACE_MENU_ITEMS: {
     highlight: (pathname: string, baseUrl: string) => pathname.includes(`${baseUrl}/workspace-views/`),
     Icon: Layers,
   },
-  {
-    key: "active-cycles",
-    label: "Cycles",
-    href: `/active-cycles`,
-    access: EUserWorkspaceRoles.MEMBER,
-    highlight: (pathname: string, baseUrl: string) => pathname === `${baseUrl}/active-cycles/`,
-    Icon: ContrastIcon,
-  },
+  // {
+  //   key: "active-cycles",
+  //   label: "Cycles",
+  //   href: `/active-cycles`,
+  //   access: EUserWorkspaceRoles.MEMBER,
+  //   highlight: (pathname: string, baseUrl: string) => pathname === `${baseUrl}/active-cycles/`,
+  //   Icon: ContrastIcon,
+  // },
   {
     key: "analytics",
     label: "Analytics",

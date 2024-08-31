@@ -114,7 +114,7 @@ const emptyStateDetails = {
     key: EmptyStateType.WORKSPACE_DASHBOARD,
     title: "Overview of your projects, activity, and metrics",
     description:
-      " Welcome to Plane, we are excited to have you here. Create your first project and track your issues, and this page will transform into a space that helps you progress. Admins will also see items which help their team progress.",
+      " Welcome to DPM, we are excited to have you here. Create your first project and track your issues, and this page will transform into a space that helps you progress. Admins will also see items which help their team progress.",
     path: "/empty-state/onboarding/dashboard",
     // path: "/empty-state/onboarding/",
     primaryButton: {
@@ -227,7 +227,7 @@ const emptyStateDetails = {
     key: EmptyStateType.WORKSPACE_SETTINGS_API_TOKENS,
     title: "No API tokens created",
     description:
-      "Plane APIs can be used to integrate your data in Plane with any external system. Create a token to get started.",
+      "DPM APIs can be used to integrate your data in DPM with any external system. Create a token to get started.",
     path: "/empty-state/workspace-settings/api-tokens",
   },
   [EmptyStateType.WORKSPACE_SETTINGS_WEBHOOKS]: {
@@ -253,7 +253,7 @@ const emptyStateDetails = {
     key: EmptyStateType.PROFILE_ASSIGNED,
     title: "No activities yet",
     description:
-      "Get started by creating a new issue! Add details and properties to it. Explore more in Plane to see your activity.",
+      "Get started by creating a new issue! Add details and properties to it. Explore more in DPM to see your activity.",
     path: "/empty-state/profile/activity",
   },
   [EmptyStateType.PROFILE_ASSIGNED]: {
@@ -395,7 +395,7 @@ const emptyStateDetails = {
       comicBox: {
         title: "Issues are building blocks in Plane.",
         description:
-          "Redesign the Plane UI, Rebrand the company, or Launch the new fuel injection system are examples of issues that likely have sub-issues.",
+          "Redesign the DPM UI, Rebrand the company, or Launch the new fuel injection system are examples of issues that likely have sub-issues.",
       },
     },
     accessType: "project",

@@ -68,7 +68,7 @@ Questions, suggestions, and thoughts are most welcome. We can also be reached in
 
 ## Ways to contribute
 
-- Try Plane Cloud and the self hosting platform and give feedback
+- Try DPM Cloud and the self hosting platform and give feedback
 - Add new integrations
 - Help with open [issues](https://github.com/makeplane/plane/issues) or [create your own](https://github.com/makeplane/plane/issues/new/choose)
 - Share your thoughts and suggestions with us

@@ -99,7 +99,7 @@ class EmailCredentialCheckEndpoint(BaseAPIView):
         # Prepare email details
         subject = "Email Notification from Plane"
         message = (
-            "This is a sample email notification sent from Plane application."
+            "This is a sample email notification sent from DPM application."
         )
         # Send the email
         try:

@@ -81,7 +81,7 @@ export const ProPlanUpgrade: FC<ProPlanUpgradeProps> = (props) => {
           {PRO_PLAN_PRICES.map((price: TProPlanPrice) => (
             <Tab.Panel key={price.key}>
               <div className="pt-6 pb-4 text-center font-semibold">
-                <div className="text-2xl">Plane Pro</div>
+                <div className="text-2xl">DPM Pro</div>
                 <div className="text-3xl">
                   {price.currency}
                   {price.price}

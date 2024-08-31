@@ -50,7 +50,7 @@ export const AutoArchiveAutomation: React.FC<Props> = observer((props) => {
             <div className="">
               <h4 className="text-sm font-medium">Auto-archive closed issues</h4>
               <p className="text-sm tracking-tight text-custom-text-200">
-                Plane will auto archive issues that have been completed or canceled.
+                DPM will auto archive issues that have been completed or canceled.
               </p>
             </div>
           </div>

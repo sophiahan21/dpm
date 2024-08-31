@@ -199,9 +199,9 @@ If all goes well, you must see something like this
 
 ---
 
-### Upgrading Plane Version
+### Upgrading DPM Version
 
-It is always advised to keep Plane up to date with the latest release.
+It is always advised to keep DPM up to date with the latest release.
 
 Lets again run the `./setup.sh` command. You will again be prompted with the below options. This time select `5` to upgrade the release.
 
@@ -403,7 +403,7 @@ When you want to restore the previously backed-up data, follow the instructions 
    Restore completed successfully.
    ```
 
-1. Start the Plane instance using `./setup.sh start`.
+1. Start the DPM Instance using `./setup.sh start`.
 
 ---
 

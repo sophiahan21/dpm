@@ -81,7 +81,7 @@ function initialize(){
     wait "$pid"
 
     if [ $? -eq 0 ]; then
-        echo "Plane supports ${CPU_ARCH}" >&2
+        echo "DPM supports ${CPU_ARCH}" >&2
         echo "available"
         return 0
     else
@@ -272,7 +272,7 @@ function download() {
     fi
     
     echo ""
-    echo "Most recent version of Plane is now available for you to use"
+    echo "Most recent version of DPM is now available for you to use"
     echo ""
     echo "In case of 'Upgrade', please check the 'plane.env 'file for any new variables and update them accordingly"
     echo ""
@@ -299,7 +299,7 @@ function startServices() {
     if [ -n "$migrator_container_id" ]; then
         local migrator_exit_code=$(docker inspect --format='{{.State.ExitCode}}' $migrator_container_id)
         if [ $migrator_exit_code -ne 0 ]; then
-            echo "Plane Server failed to start ❌"
+            echo "DPM Server failed to start ❌"
             # stopServices
             echo
             echo "Please check the logs for the 'migrator' service and resolve the issue(s)."
@@ -321,7 +321,7 @@ function startServices() {
     printf "\r\033[K"
     echo "   API Service started successfully ✅"
     source "${DOCKER_ENV_PATH}"
-    echo "   Plane Server started successfully ✅"
+    echo "   DPM Server started successfully ✅"
     echo ""
     echo "   You can access the application at $WEB_URL"
     echo ""
